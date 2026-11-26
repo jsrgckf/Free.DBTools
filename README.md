@@ -1,5 +1,5 @@
-# Free.DBTools · 多数据库连接工具
-
+# Free.DBTools · 多数据库连接工具 主要用于无网环境
+https://github.com/jsrgckf/Free.DBTools/blob/main/src/Free.DBTools/bin/Release/net48.zip 直接下载编译好的
 基于 **.NET Framework 4.8 + WPF + SqlSugar** 的轻量桌面数据库工具，一个 EXE 覆盖常见主流数据库与部分国产数据库。支持浅色/深色主题（默认浅色并记住选择）、连接配置保存、连接后选库、对象树浏览、表数据分页、SQL 执行与自动补全、CSV 导出。
 
 ## 功能
